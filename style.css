@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(108, 222, 226);
+}
+h1 {
+  color: blue;
+}
+.text-h1 {
+  font-size: 30px;
+  color: blueviolet;
+  font-family: "Courier New", Courier, monospace;
+}
+.text-p {
+  font-size: 30px;
+  color: green;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.text-small {
+  font-size: 30px;
+  color: yellow;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.Group-h2,
+.Group-p,
+.Group-small {
+  background-color: blue;
+  font-size: 30px;
+  color: white;
+}
+#Id-p1 {
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+}
+#Id-p2 {
+  font-size: 30px;
+  color: blue;
+  text-transform: uppercase;
+}
+#Id-p3 {
+  font-size: 30px;
+  text-transform: lowercase;
+}
+#Id-h1,
+#Id-h2,
+#Id-h3 {
+  font-size: 30px;
+  color: red;
+  font-weight: 900;
+  text-transform: uppercase;
+}
